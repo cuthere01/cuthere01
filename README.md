@@ -3,7 +3,7 @@
 Look at my knowledges below:
 
 <div align="center">
-	<h2>Main</h2>
+	<h3>Main</h3>
 </div>
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"
@@ -14,7 +14,7 @@ Look at my knowledges below:
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SCSS" alt="SCSS" width="40" height="40"/>
 </div>
 <div align="center">
-	<h2>Also</h2>
+	<h3>Also</h3>
 </div>
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@ Look at my knowledges below:
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
 </div>
 <div align="center">
-	<h2>Sup</h2>
+	<h3>Sup</h3>
 </div>
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
@@ -33,12 +33,16 @@ Look at my knowledges below:
 	<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="phpstorm" alt="phpstorm" width="40" height="40"/>
 </div>
 <div align="center">
-	<h2>Other</h2>
+	<h3>Other</h3>
 </div>
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
 </div>
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuthere01&size_weight=0.5&count_weight=0.5&layout=compact)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
